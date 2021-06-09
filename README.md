@@ -13,7 +13,7 @@ About Yooshi NFT, Base On BSC
 uri info
 
 | Category| Name | URI |
-| ---  |Name | --- |
+| ---  |--- | --- |
 | 1 | YooShi Miner |  https://yooshi.io/nft-meta/yooshi/1/1.json|
 | 2 | YooShi Sushi Master |  https://yooshi.io/nft-meta/yooshi/1/2.json|
 | 3 | Yooshi Army |  https://yooshi.io/nft-meta/yooshi/1/3.json|
@@ -33,5 +33,5 @@ uri info
 uri info
 
 | Category| Name | URI |
-| ---  |Name | --- |
+| ---  |--- | --- |
 | 1 | ooShi Friends SHIB | https://yooshi.io/nft-meta/yooshi-friends/1/1.json |
