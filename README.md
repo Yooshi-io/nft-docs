@@ -34,4 +34,4 @@ uri info
 
 | Category| Name | URI |
 | ---  |--- | --- |
-| 1 | ooShi Friends SHIB | https://yooshi.io/nft-meta/yooshi-friends/1/1.json |
+| 1 | YooShi Friends SHIB | https://yooshi.io/nft-meta/yooshi-friends/1/1.json |
